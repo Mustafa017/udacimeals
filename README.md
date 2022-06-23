@@ -1,2 +1,0 @@
-# udacimeals
-react-redux tutorial
